@@ -44,7 +44,7 @@ Enter the number of the AVD to launch (1-2):
 ### Option 2: Manual Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/EmuScan.git
+   git clone https://github.com/ymuuuu/EmuScan.git
    cd EmuScan
    ```
 2. Run the script:
@@ -154,8 +154,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/EmuScan/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/EmuScan/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ymuuuu/EmuScan/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ymuuuu/EmuScan/discussions)
 
 ---
 
