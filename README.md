@@ -21,13 +21,13 @@ A powerful PowerShell script for managing Android Virtual Devices (AVDs) with an
 Enter the number of the AVD to launch (1-2):
 ```
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - **Windows** with PowerShell 5.1 or later
 - **Android SDK** installed with emulator
 - **Android Virtual Devices** (AVDs) created in Android Studio
 
-## 📦 Installation
+## Installation
 
 ### Option 1: Quick Setup (Recommended)
 
@@ -76,7 +76,7 @@ EmuScan -uninstall
 .\EmuScan.ps1 -uninstall
 ```
 
-## 📋 Supported Information
+## Supported Information
 
 | Information         | Description                                       |
 | ------------------- | ------------------------------------------------- |
@@ -124,6 +124,6 @@ Get-ExecutionPolicy
 Set-ExecutionPolicy RemoteSigned
 ```
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
