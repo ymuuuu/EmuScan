@@ -1,13 +1,13 @@
 # EmuScan 📱
 
-A powerful PowerShell script for managing Android Virtual Devices (AVDs) with an intuitive interface and comprehensive device information display.
+A PowerShell script for running Android Virtual Devices (AVDs) on windows without laucnhing Android Studio with an intuitive interface and comprehensive device information display.
 
 ## Features
 
+- \*\* Less Resources Consumption due to not running the whole AS IDE
 - ** Comprehensive AVD Information**: View device model, Android version, API level, architecture, root status, and last usage date
 - ** Smart Boot Options**: Choose between normal boot (fast) or cold boot (clean state)
 - ** System-wide Installation**: Install once, run from anywhere
-- ** Color-coded Interface**: Easy-to-read output with emoji indicators
 - ** Easy Management**: Install/uninstall with simple commands
 
 ## Example
